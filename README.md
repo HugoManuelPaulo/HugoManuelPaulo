@@ -86,5 +86,6 @@ I combine practical quality and operations experience with software engineering,
 
 ## Contact
 
+- [Portfolio](https://hugomanuelpaulo.github.io)
 - [LinkedIn](https://www.linkedin.com/in/hugomanuelpaulo)
 - [GitHub](https://github.com/hugomanuelpaulo)

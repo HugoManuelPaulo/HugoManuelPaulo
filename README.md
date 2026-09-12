@@ -58,21 +58,21 @@ Automation and control workflow for **494 accounting records**.
 
 *Academic project — 2026*
 
-### [Dental Appointment Management System](https://github.com/Hugopaulo1986/clinica-oral-care)
+### [Dental Appointment Management System](https://github.com/hugomanuelpaulo/clinica-oral-care)
 Web application developed as my Software Engineering final graduation project.
 
 - PHP, MySQL, JavaScript and Bootstrap
 - Appointment scheduling, patient history and role-based access
 - Email confirmations and reminders
 
-### [BMI Calculator — Android](https://github.com/Hugopaulo1986/CalculadoraIMCandroidapp)
+### [BMI Calculator — Android](https://github.com/hugomanuelpaulo/CalculadoraIMCandroidapp)
 Native Android application built with Kotlin and XML layouts.
 
 - Two-screen user flow
 - BMI calculation and result classification
 - Android Studio project with responsive UI components
 
-### [BMI Calculator — Java](https://github.com/Hugopaulo1986/CalculadoraIMC)
+### [BMI Calculator — Java](https://github.com/hugomanuelpaulo/CalculadoraIMC)
 Command-line Java application demonstrating input handling, methods and BMI calculation.
 
 ## Education
@@ -86,5 +86,5 @@ I combine practical quality and operations experience with software engineering,
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/hugo-paulo-70b1941aa)
-- [GitHub](https://github.com/Hugopaulo1986)
+- [LinkedIn](https://www.linkedin.com/in/hugomanuelpaulo)
+- [GitHub](https://github.com/hugomanuelpaulo)
